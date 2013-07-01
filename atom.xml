@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tarzansos Blog]]></title>
-  <link href="http://tuminfei.github.com/atom.xml" rel="self"/>
-  <link href="http://tuminfei.github.com/"/>
-  <updated>2013-07-01T22:24:33+08:00</updated>
-  <id>http://tuminfei.github.com/</id>
+  <link href="http://tuminfei.github.io/atom.xml" rel="self"/>
+  <link href="http://tuminfei.github.io/"/>
+  <updated>2013-07-01T22:29:50+08:00</updated>
+  <id>http://tuminfei.github.io/</id>
   <author>
     <name><![CDATA[Terry Tu]]></name>
     
